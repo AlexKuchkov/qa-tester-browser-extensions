@@ -1,75 +1,75 @@
-# 🛠️ QA Testing Tools
+# 🧩 Browser Extensions for QA Testers
 
-A curated list of tools for manual testing, automation, bug tracking, performance, and more — ideal for QA engineers and testers.
-
----
-
-## 🔍 Manual Testing Tools
-
-| Tool | Description |
-|------|-------------|
-| **TestRail** | Test management tool for creating and tracking test cases. |
-| **TestLink** | Open-source test management tool. |
-| **qTest by Tricentis** | Cloud-based test management platform. |
-| **PractiTest** | Centralized QA management tool with traceability. |
+A curated list of browser extensions that help QA engineers with manual testing, debugging, UI validation, performance analysis, and accessibility.
 
 ---
 
-## 🤖 Automation Testing Tools
+## 🔧 Developer Tools
 
-| Tool | Description |
-|------|-------------|
-| **Selenium** | Web automation framework supporting multiple browsers and languages. |
-| **Playwright** | Modern Node.js-based automation tool with multi-browser support. |
-| **Cypress** | JavaScript-based front-end testing for modern web apps. |
-| **TestComplete** | Commercial automation tool supporting desktop, web, and mobile testing. |
-| **Appium** | Open-source mobile automation for Android and iOS. |
-| **Katalon Studio** | All-in-one automation tool with built-in features for beginners and pros. |
-
----
-
-## 🐞 Bug & Issue Tracking Tools
-
-| Tool | Description |
-|------|-------------|
-| **JIRA** | Widely used for agile development and bug tracking. |
-| **Bugzilla** | Open-source bug tracking system by Mozilla. |
-| **MantisBT** | Lightweight, open-source bug tracker. |
-| **GitHub Issues** | Integrated issue tracking for GitHub-hosted projects. |
+| Extension | Description |
+|-----------|-------------|
+| **Chrome DevTools** (built-in) | Inspect HTML/CSS, monitor network traffic, debug JavaScript, and more. |
+| **Web Developer** | Adds a toolbar with tools for inspecting, disabling, and manipulating page elements. |
+| **Window Resizer** | Quickly test responsive designs on different screen sizes. |
+| **EditThisCookie** | Edit, add, delete, search, protect and block cookies easily. |
+| **JSON Viewer** | Beautifies JSON in the browser, useful for API testing. |
 
 ---
 
-## 📊 Performance & Load Testing Tools
+## 🧪 Testing Utilities
 
-| Tool | Description |
-|------|-------------|
-| **JMeter** | Apache's tool for performance and load testing. |
-| **LoadRunner** | Enterprise-grade performance testing by Micro Focus. |
-| **k6** | Developer-centric performance testing tool written in Go. |
-| **Gatling** | Highly performant tool for web applications, ideal for developers. |
-
----
-
-## 📱 Cross-Browser & Device Testing Tools
-
-| Tool | Description |
-|------|-------------|
-| **BrowserStack** | Real devices and browsers for testing web and mobile apps. |
-| **Sauce Labs** | Cloud-based cross-browser testing. |
-| **LambdaTest** | Manual and automated browser testing in the cloud. |
+| Extension | Description |
+|-----------|-------------|
+| **Postman Interceptor** | Intercepts requests and responses from your browser to Postman. |
+| **ModHeader** | Modify HTTP request and response headers easily. Useful for testing environments or redirects. |
+| **RESTED** | Lightweight REST client for quick API testing. |
+| **XPath Helper** | Finds and tests XPath expressions directly in the browser. |
+| **Form Filler** | Auto-fills forms with dummy data, useful during repetitive testing. |
 
 ---
 
-## ✅ Additional Useful Tools
+## 🎨 Pixel-Perfect & UI Testing
 
-| Tool | Description |
-|------|-------------|
-| **Postman** | API testing and automation. |
-| **Charles Proxy / Fiddler** | Web debugging proxies for inspecting traffic. |
-| **Chrome DevTools** | Built-in browser tools for inspecting and debugging. |
-| **WAVE / axe DevTools** | Accessibility testing. |
-| **Lighthouse** | Performance, accessibility, and SEO audits. |
+| Extension | Description |
+|-----------|-------------|
+| **PixelPerfect** | Overlay a design image on top of your site to ensure pixel-level alignment with the mockup. |
+| **PerfectPixel by WellDoneCode** | Another great extension to overlay semi-transparent images over your HTML to match designs. |
+| **Page Ruler Redux** | Measure elements and distances in pixels on the screen. |
+| **Visual Inspector** | Edit and inspect live web pages visually without code. |
+| **CSS Peeper** | View CSS properties in a more visual, user-friendly way for UI inspection. |
 
 ---
 
-> 📌 *This list will be continuously updated as I explore and work with more tools in real-world QA projects.*
+## ♿ Accessibility Testing
+
+| Extension | Description |
+|-----------|-------------|
+| **axe DevTools** | Industry-standard accessibility testing tool powered by Deque. |
+| **WAVE** | Visualizes accessibility issues directly on the page. |
+| **Accessibility Insights** | Accessibility testing and guidance by Microsoft. |
+
+---
+
+## 🚦 Performance & SEO
+
+| Extension | Description |
+|-----------|-------------|
+| **Lighthouse** | Built-in Chrome extension for testing performance, SEO, accessibility, and PWA. |
+| **Web Vitals** | Measures essential web vitals like LCP, FID, and CLS in real time. |
+
+---
+
+## 🌐 Miscellaneous Tools
+
+| Extension | Description |
+|-----------|-------------|
+| **User-Agent Switcher** | Emulate different devices, operating systems, or browsers by changing the user agent string. |
+| **ColorZilla** | Eyedropper and color picker tool for UI testing. |
+| **WhatFont** | Easily identify fonts used on any webpage. |
+| **Site Palette** | Generate color palettes from any website. |
+| **Ghostery** | Check third-party scripts and trackers loaded on the site. |
+
+---
+
+> 🧪 *These tools help manual testers speed up workflows, validate designs, check responsiveness, and improve testing accuracy.*
+
