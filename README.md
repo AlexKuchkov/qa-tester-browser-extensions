@@ -1,6 +1,5 @@
 # 🧩 Browser Extensions for QA Testers
 
-A curated list of browser extensions that help QA engineers with manual testing, debugging, UI validation, performance analysis, and accessibility.
 
 ---
 
