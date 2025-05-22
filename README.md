@@ -3,7 +3,7 @@
 
 ---
 
-## 🔧 Developer Tools
+## Developer Tools
 
 | Extension | Description |
 |-----------|-------------|
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧪 Testing Utilities
+## Testing Utilities
 
 | Extension | Description |
 |-----------|-------------|
@@ -27,7 +27,7 @@
 
 ---
 
-## 🎨 Pixel-Perfect & UI Testing
+## Pixel-Perfect & UI Testing
 
 | Extension | Description |
 |-----------|-------------|
@@ -39,7 +39,7 @@
 
 ---
 
-## ♿ Accessibility Testing
+## Accessibility Testing
 
 | Extension | Description |
 |-----------|-------------|
@@ -49,7 +49,7 @@
 
 ---
 
-## 🚦 Performance & SEO
+## Performance & SEO
 
 | Extension | Description |
 |-----------|-------------|
@@ -58,7 +58,7 @@
 
 ---
 
-## 🌐 Miscellaneous Tools
+## Miscellaneous Tools
 
 | Extension | Description |
 |-----------|-------------|
@@ -70,5 +70,5 @@
 
 ---
 
-> 🧪 *These tools help manual testers speed up workflows, validate designs, check responsiveness, and improve testing accuracy.*
+> *These tools help manual testers speed up workflows, validate designs, check responsiveness, and improve testing accuracy.*
 
