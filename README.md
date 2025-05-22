@@ -1,4 +1,4 @@
-# 🧩 Browser Extensions for QA Testers
+# Browser Extensions for QA Testers
 
 
 ---
