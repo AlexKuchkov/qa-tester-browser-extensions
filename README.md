@@ -70,5 +70,4 @@
 
 ---
 
-> *These tools help manual testers speed up workflows, validate designs, check responsiveness, and improve testing accuracy.*
 
