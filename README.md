@@ -1,5 +1,14 @@
 # Browser Extensions for QA Testers
 
+- <strong>Table of Contents</strong>
+  - [Browser Extensions for QA Testers](#browser-extensions-for-qa-testers)
+    - [Developer Tools](#developer-tools)
+    - [Testing Utilities](#testing-utilities)
+    - [Pixel-Perfect & UI Testing](#pixel-perfect--ui-testing)
+    - [Accessibility Testing](#accessibility-testing)
+    - [Performance & SEO](#performance--seo)
+    - [Miscellaneous Tools](#miscellaneous-tools)
+
 
 ## Developer Tools
 
