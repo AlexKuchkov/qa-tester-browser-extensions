@@ -56,5 +56,15 @@
 - [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) – Eyedropper and color picker tool for UI testing.  
 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/dgpbepgppdpcmdfhbcdgkhkcknobgibi) – Easily identify fonts used on any webpage.  
 - [Site Palette](https://chrome.google.com/webstore/detail/site-palette/likdphbhdiklljddgfhgfjekebmbgjcg) – Generate color palettes from any website.  
-- [Ghostery](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-bloc/mlomiejdfkolichcflejclcbmpeaniij) – Check third-party scripts and trackers loaded on the site.  
+- [Ghostery](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-bloc/mlomiejdfkolichcflejclcbmpeaniij) – Check third-party scripts and trackers loaded on the site.
+
+</br>
+</br>
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or new use cases, feel free to open an issue or submit a pull request.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/AlexKuchkov/qa-testing-browser-extensions?tab=MIT-1-ov-file)
+
 
