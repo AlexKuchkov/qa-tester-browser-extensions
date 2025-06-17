@@ -1,5 +1,5 @@
 # Browser Extensions for QA Testers
-A curated collection of browser extensions that enhance the QA testing workflow. These tools help testers inspect code, validate UI, debug APIs, simulate user behavior, measure performance, and ensure accessibility compliance—directly within the browser. Ideal for both manual and automation testers looking to streamline their web testing process.
+A curated collection of browser extensions that enhance the QA testing workflow. These tools help testers inspect code, validate UI, debug APIs, simulate user behavior, measure performance, and ensure accessibility compliance - directly within the browser. Ideal for both manual and automation testers looking to streamline their web testing process.
 
 - <strong>Table of Contents</strong>
   - [Browser Extensions for QA Testers](#browser-extensions-for-qa-testers)
